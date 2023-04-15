@@ -17,11 +17,12 @@ AAA3A = {
 }
 ```
 - :computer: My main language is [Python](https://www.python.org).
+- :school: I'm currently learning : HTML, CSS, JavaScript and Django templates.
 
 ## Where To Find Me -
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/AAA3A-AAA3A)
-[![Red Discord Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/red)
+[![Red Discord Server](https://img.shields.io/badge/Discord-7289DA?label=Red%20Server&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/red)
 
 ## Skills -
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -33,6 +34,7 @@ AAA3A = {
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/static/v1?label=Visual%20Studio%20Code&logo=visualstudiocode&message=software&style=for-the-badge&logoColor=white&color=brightgreen&url=https://code.visualstudio.com/)
 
 ## Stats -
 
@@ -42,4 +44,4 @@ AAA3A = {
 
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AAA3A-AAA3A&theme=merko)](https://github.com/AAA3A-AAA3A)
 
-Thanks [@japandotorg](https://github.com/japandotorg) for this file!
+Thanks to [@japandotorg](https://github.com/japandotorg) for this file!
