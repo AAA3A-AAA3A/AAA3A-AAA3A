@@ -16,8 +16,8 @@ AAA3A = {
     "askMeAbout": ["python dev", "bot dev"],
 }
 ```
-- :computer: My main language is [Python](https://www.python.org).
-- :school: I'm currently learning : HTML, CSS, JavaScript and Django templates.
+- :computer: My main language is: [Python](https://www.python.org).
+- :school: I'm currently learning: HTML, CSS, JavaScript and Django templates.
 
 ## Where To Find Me -
 
