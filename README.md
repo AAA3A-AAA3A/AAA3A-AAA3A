@@ -38,7 +38,7 @@ AAA3A = {
 
 ## Stats -
 
-![Contributions](https://github-readme-stats.vercel.app/api?username=AAA3A-AAA3A&show_icons=true&theme=radical)
+![Contributions](https://github-readme-stats.vercel.app/api?username=AAA3A-AAA3A&show_icons=true&line_height=24&count_private=false&theme=vue)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAA3A-AAA3A&layout=compact&show_icons=true)
 
