@@ -45,3 +45,8 @@ AAA3A = {
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AAA3A-AAA3A&theme=merko)](https://github.com/AAA3A-AAA3A)
 
 Thanks to [@japandotorg](https://github.com/japandotorg) for this file!
+
+---
+
+### Auto-generated Metrics:
+![Metrics](https://github.com/AAA3A-AAA3A/AAA3A-AAA3A/blob/main/github-metrics.svg)
