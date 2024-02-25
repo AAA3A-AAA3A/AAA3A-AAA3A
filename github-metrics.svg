@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1908,7 +1908,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 619k out of 97.9m repositories</span>
+                                    <span class="gh">ranked 619k out of 99.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 19 times</div>
                             </div>
@@ -2039,7 +2039,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.12m out of 97.9m repositories</span>
+                                    <span class="gh">ranked 1.12m out of 99.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 21 stars</div>
                             </div>
@@ -2159,7 +2159,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Feb 2024, 18:06:44 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Feb 2024, 19:08:08 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
