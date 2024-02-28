@@ -12,8 +12,8 @@ Hi there, I'm **AAA3A**, an Open Source Developer!
 AAA3A = {
     "pronouns": {"He", "Him"},
     "country": "France",
-    "code": ["Python"],
-    "askMeAbout": ["python dev", "bot dev"],
+    "code": ["Python", "HTML", "CSS", "JavaScript"],
+    "askMeAbout": ["python dev", "bot dev", "web dev"],
 }
 ```
 - :computer: My main language is: [Python](https://www.python.org).
