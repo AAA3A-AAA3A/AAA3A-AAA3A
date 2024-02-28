@@ -57,5 +57,8 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
+          plugin_repositories_pinned: 3
+          plugin_repositories_starred: 2
+          plugin_repositories_random: 1
           plugin_stargazers: yes
           plugin_traffic: yes
